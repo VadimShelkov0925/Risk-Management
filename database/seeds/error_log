@@ -1,0 +1,1 @@
+[12-Oct-2018 23:00:34 Europe/London] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/pampunic/public_html/lac/sal/app/database/seeds/DatabaseSeeder.php on line 5

@@ -1,0 +1,2 @@
+[12-Oct-2018 22:58:21 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/pampunic/public_html/lac/sal/app/app/Console/Kernel.php on line 8
+[12-Oct-2018 22:58:21 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/pampunic/public_html/lac/sal/app/app/Console/Kernel.php on line 8
